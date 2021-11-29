@@ -1,4 +1,4 @@
-# Hackintosh-gigabyte-z390-i5-9600k
+# Hackintosh-gigabyte aorous elite -z390-i5-9600k
 
 Hackintosh Opencore 0.7.2 for Gigabyte Z390 Aorus elite - macOS BIGsur 
 
