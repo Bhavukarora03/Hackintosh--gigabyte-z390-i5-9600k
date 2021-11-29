@@ -17,3 +17,6 @@ Type|Item
 **Power Supply** | [Antec 80+ Gold Semi-Modular]
 **Monitor 1** | [ACER KG271C]
 **Monitor 2** | [ACER KG271]
+
+
+#Not-Working = Intel uhd630 iGPU
