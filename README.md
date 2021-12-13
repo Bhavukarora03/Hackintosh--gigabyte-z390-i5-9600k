@@ -1,5 +1,7 @@
 # Hackintosh - Gigabyte aorous elite z390 - i5-9600k
 
+![SS.jpg](https://github.com/Bhavukarora03/Hackintosh--gigabyte-z390-i5-9600k/blob/main/SS.jpg)
+
 Hackintosh Opencore 0.7.2 for Gigabyte Z390 Aorus elite - macOS BIGsur 
 
 ### Hardware
