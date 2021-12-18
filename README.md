@@ -1,6 +1,7 @@
 # Hackintosh - Gigabyte aorous elite z390 - i5-9600k
 
-![Screen Shot 2021-12-18 at 6.41.39 AM](https://imgur.com/ud3J0I8)
+<img src="https://i.imgur.com/ud3J0I8.png"/>
+![image](https://imgur.com/ud3J0I8)
 
 Hackintosh Opencore 0.7.2 for Gigabyte Z390 Aorus elite - macOS BIGsur 
 
