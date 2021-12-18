@@ -4,7 +4,7 @@
 
 
 Will update to monetery!
-Hackintosh Opencore 0.7.1 for Gigabyte Z390 Aorus elite - macOS BIGsur 
+# Hackintosh Opencore 0.7.1 for Gigabyte Z390 Aorus elite - macOS BIGsur 
 
 ### Hardware
 
