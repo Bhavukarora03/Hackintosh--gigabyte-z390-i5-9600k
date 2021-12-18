@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/ud3J0I8.png"/>
 
 
-## Will update to monetery when i get free time :D 
+## Will update to monetery when i get time :D 
 
 ## Hackintosh Opencore 0.7.1 for Gigabyte Z390 Aorus elite - macOS Big Sur 11.6.2
 
