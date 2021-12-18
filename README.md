@@ -4,7 +4,7 @@
 
 
 Will update to monetery!
-# Hackintosh Opencore 0.7.1 for Gigabyte Z390 Aorus elite - macOS BIGsur 
+## Hackintosh Opencore 0.7.1 for Gigabyte Z390 Aorus elite - macOS BIGsur 
 
 ### Hardware
 
@@ -25,13 +25,17 @@ Type|Item
 
 
 #Whats working - Everything!
-icloud services 
-Facetime
-Imessage
-Apple TV
+Hardware Acc.
+USB PORRTS
+Audio via HDMI
+icloud services. 
+Facetime. 
+Imessage. 
+Apple TV. 
+Dual Display (144z and 75z)
 
 #Not tested - Wifi / Bluetooth since i use lan (which works btw)
 follow the guide to fix external wifi
 https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
 
-
+#### Don't forget to make neccesary SSDT changes to the plist, in most cases it will work just as fine.
