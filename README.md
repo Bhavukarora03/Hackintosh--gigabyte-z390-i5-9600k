@@ -24,18 +24,18 @@ Type|Item
 **Monitor 2** | [ACER KG271]
 
 
-#Whats working - Everything!
-Hardware Acc.
-USB PORRTS
-Audio via HDMI
-icloud services. 
-Facetime. 
-Imessage. 
-Apple TV. 
-Dual Display (144z and 75z)
+##### Whats working - Everything!
+##### Hardware Acc.
+##### USB PORRTS
+##### Audio via HDMI
+##### Icloud services. 
+##### Facetime. 
+##### Imessage. 
+##### Apple TV. 
+##### Dual Display (144z and 75z)
 
-#Not tested - Wifi / Bluetooth since i use lan (which works btw)
+### Not tested - Wifi / Bluetooth since i use lan (which works btw)
 follow the guide to fix external wifi
 https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
 
-#### Don't forget to make neccesary SSDT changes to the plist, in most cases it will work just as fine.
+### Don't forget to make neccesary SSDT changes to the plist, in most cases it will work just as fine.
