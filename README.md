@@ -50,13 +50,13 @@ Sbios ver - Imac19,1
 
 * follow the guide to fix external wifi - https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
 
-> #### UPDATE: Wifi Works (Make sure SIP is disabled by Going in Recovery/Utility/Terminal)
+* #### UPDATE: Wifi Works (Make sure SIP is disabled by Going in Recovery/Utility/Terminal)
 
 * Type the following command and Restart
 
 > csrutil disable
 
-> #### Blueooth 5.0 Works as well - TP-Link (UB500) plug and play. No driveers needed.
+* #### Blueooth 5.0 Works as well - TP-Link (UB500) plug and play. No driveers needed.
 
 
 
