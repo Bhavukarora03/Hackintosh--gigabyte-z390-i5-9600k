@@ -3,7 +3,6 @@
 <img src="https://i.imgur.com/gTMnXON.png"/>
 
 
-## Will update to monetery when i get time :D 
 
 ## Hackintosh Opencore 0.7.7 for Gigabyte Z390 Aorus elite - macOS Monetery 12.2.2
 
