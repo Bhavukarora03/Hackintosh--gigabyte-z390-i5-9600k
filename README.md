@@ -1,11 +1,11 @@
 # Hackintosh - Gigabyte aorous elite z390 - i5-9600k
 
-<img src="https://imgur.com/gTMnXON"/>
+<img src="https://i.imgur.com/gTMnXON.png"/>
 
 
 ## Will update to monetery when i get time :D 
 
-## Hackintosh Opencore 0.7.1 for Gigabyte Z390 Aorus elite - macOS Big Sur 11.6.2
+## Hackintosh Opencore 0.7.7 for Gigabyte Z390 Aorus elite - macOS Monetery 12.2.2
 
 ### Hardware
 
