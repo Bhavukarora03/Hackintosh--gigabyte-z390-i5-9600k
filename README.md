@@ -55,10 +55,6 @@ Sbios ver - Imac19,1
 
 > csrutil disable
 
-* #### Blueooth 5.0 Works as well - TP-Link (UB500) plug and play. No driveers needed.
-
-
-
 
 <img src="https://i.imgur.com/De1jhL0.png"/>
 
