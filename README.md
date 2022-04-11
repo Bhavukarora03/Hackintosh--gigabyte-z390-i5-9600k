@@ -21,8 +21,8 @@ Type|Item
 **Video Card 2** | [Gigabyte rx 570 (working)]
 **Case** | [NZXT H500]
 **Power Supply** | [Antec 80+ Gold Semi-Modular]
-**Monitor 1** | [ACER KG271C]
-**Monitor 2** | [ACER KG271]
+**Monitor 1** | [ACER KG271C (Working at 144hz)]
+**Monitor 2** | [ACER KG271(Workng at 75hz) **chill the monitor is 75hz only]
 
 
 ## Neccesary BIOS changes to be made before installing (IMP)
