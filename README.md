@@ -4,8 +4,8 @@
 
 
 
-## Hackintosh Opencore 0.7.7 for Gigabyte Z390 Aorus elite - macOS Monetery 12.2.2
-### *Updated to 12.3.1
+## Hackintosh Opencore 0.8.2 for Gigabyte Z390 Aorus elite - macOS Monetery 12.2.2
+### *Updated to 12.4
 
 ### Hardware
 
