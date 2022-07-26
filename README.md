@@ -17,8 +17,8 @@ Type|Item
 **CPU Cooler** | [NZXT kraken m22] 
 **Motherboard** | [Gigabyte - Z390 AORUS elite]
 **Memory** | [Corsair 16 GB Vengeance LPX DDR4 3000MHz C16]
-**Storage (macOS)** | [ALKETRON - Blue Shark SSD (Internal Solid State Drive) | 120GB]
-**Storage (Windows)** | [KINGSTON A400 480GB]
+**Storage (macOS)** | [KINGSTON A400 480GB] | 120GB]
+**Storage (Windows)** | [WD sn-750 500GB NVME]
 **Video Card** | [Gigabyte rtx 2070 super (disabled)]
 **Video Card 2** | [Gigabyte rx 570 (working)]
 **Case** | [NZXT H500]
@@ -36,6 +36,7 @@ Type|Item
 * CSM - Disabled
 * secure boot - Disabled
 * Windows 8/10 featured - windows 8/10 WHQL
+* CGF lock - Disbaled (Please make sure if you have this disable this bc opencore 0.82 wont be able to boot)
 
 
 ## Whats working - Everything!
