@@ -4,7 +4,7 @@
 
 
 
-## Hackintosh Opencore 0.8.2 for Gigabyte Z390 Aorus elite - macOS Ventura Public Beta
+## Hackintosh Opencore 0.8.5 for Gigabyte Z390 Aorus elite - macOS Ventura 
 
 
 
@@ -24,7 +24,7 @@ Type|Item
 **Case** | [NZXT H500]
 **Power Supply** | [Antec 80+ Gold Semi-Modular]
 **Monitor 1** | [ACER KG271C (Working at 144hz)]
-**Monitor 2** | [ACER KG271(Workng at 75hz) **chill the monitor is 75hz only]
+**Monitor 2** | [ACER KG271(Workng at 75hz)
 
 
 ## Neccesary BIOS changes to be made before installing (IMP)
@@ -44,24 +44,15 @@ Type|Item
 * USB PORTS 2.0, 3.0.
 * Audio via HDMI
 * Icloud services (includes Imessage, Facetime, Apple TV)
-* Dual Display (High Refresh Rate)
+* wifi/airdrop
+
 
 Sbios ver - Imac19,1
  
 
-### Not tested - Wifi / Bluetooth since i use lan (which works btw)
-
-* follow the guide to fix external wifi - https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
-
-* #### UPDATE: Wifi Works (Make sure SIP is disabled by Going in Recovery/Utility/Terminal)
-
-* Type the following command and Restart
-
-> csrutil disable
 
 
 <img src="https://i.imgur.com/De1jhL0.png"/>
 
 
-
-## Don't forget to make neccesary SSDT changes to the plist, in most cases it will work just as fine. If you are adding Extra kexts make sure to Inject them. Always Experiment on a seprate USB Drive just in case if anything goes south.
+#### If you are adding Extra kexts make sure to Inject them. Always Experiment on a seprate USB Drive just in case if anything goes south.
