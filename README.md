@@ -13,10 +13,10 @@
 
 Type|Item
 :----|:----
-**CPU** | [Intel - Core i5-9600K]
-**CPU Cooler** | [NZXT kraken m22] 
+**CPU** | [Intel - Core i5-9600K - OC - 5.0 GHZ]
+**CPU Cooler** | [Lian Li Galahad 240 ARGB AIO Liquid CPU Cooler - White] 
 **Motherboard** | [Gigabyte - Z390 AORUS elite]
-**Memory** | [Corsair 16 GB Vengeance LPX DDR4 3000MHz C16]
+**Memory** | [Corsair 32 GB Vengeance LPX DDR4 3000MHz C16]
 **Storage (macOS)** | [KINGSTON A400 480GB] | 120GB]
 **Storage (Windows)** | [WD sn-750 500GB NVME]
 **Video Card** | [Gigabyte rtx 2070 super (disabled)]
@@ -36,7 +36,8 @@ Type|Item
 * CSM - Disabled
 * secure boot - Disabled
 * Windows 8/10 featured - windows 8/10 WHQL
-* CGF lock - Disbaled (Please make sure if you have this disable this bc opencore 0.82 wont be able to boot)
+* CGF lock - Disbaled (Please make sure if you have this disable this bc opencore 0.85 wont be able to boot)
+
 
 
 ## Whats working - Everything!
