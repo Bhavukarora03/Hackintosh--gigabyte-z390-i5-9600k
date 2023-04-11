@@ -1,10 +1,10 @@
-# Hackintosh - Gigabyte aorous elite z390 - i5-9600k
+ Hackintosh - Gigabyte aorous elite z390 - i5-9600k
 
 <img src="https://i.imgur.com/lo2B5TJ.png"/>
 
 
 
-## Hackintosh Opencore 0.8.5 for Gigabyte Z390 Aorus elite - macOS Ventura 
+## Hackintosh Opencore 0.9.1 for Gigabyte Z390 Aorus elite - macOS Ventura 
 
 
 
@@ -52,7 +52,7 @@ Sbios ver - Imac19,1
  
 
 
-
+(updated wifi card to Broadcom BCM94360CS2 with a pcix4 adapter)
 <img src="https://i.imgur.com/De1jhL0.png"/>
 
 
