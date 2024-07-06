@@ -1,6 +1,6 @@
  Hackintosh - Gigabyte aorous elite z390 - i5-9600k
 
-[Imgur](https://imgur.com/G7luVxi)
+<img src="https://i.imgur.com/G7luVxi.png"/>
 
 
 
