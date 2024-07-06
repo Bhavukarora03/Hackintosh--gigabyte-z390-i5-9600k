@@ -1,10 +1,10 @@
  Hackintosh - Gigabyte aorous elite z390 - i5-9600k
 
-<img src="https://i.imgur.com/lo2B5TJ.png"/>
+[Imgur](https://imgur.com/G7luVxi)
 
 
 
-## Hackintosh Opencore 0.9.1 for Gigabyte Z390 Aorus elite - macOS Ventura 
+## Hackintosh Opencore 1.0.0 for Gigabyte Z390 Aorus elite - macOS Sonoma 14.5 
 
 
 
@@ -53,7 +53,10 @@ Sbios ver - Imac19,1
 
 
 (updated wifi card to Broadcom BCM94360CS2 with a pcix4 adapter)
-<img src="https://i.imgur.com/De1jhL0.png"/>
+
+For WIFI follow this tut: Appt. Apple has dropped the supoort for broadcom cards.
+
+https://www.youtube.com/watch?v=gHs2CFox6gc&t=376s
 
 
 #### If you are adding Extra kexts make sure to Inject them. Always Experiment on a seprate USB Drive just in case if anything goes south.
